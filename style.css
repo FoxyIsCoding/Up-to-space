@@ -1,17 +1,15 @@
-body {
-    margin: 0;
-    position: absolute;
-  }
+
   html,
   body {
     height: 100%;
       overflow: hidden;
+      background-color: black;
   }
   canvas {
     display: block;
   }
   
-  h1 {
+  .text {
     position: absolute;
     color: orange;
   }
